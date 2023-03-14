@@ -30,7 +30,7 @@ i {
 
 .dropdown-item:focus,
 .dropdown-item:hover {
-    color: #fff;
+    color: #e6dddd;
     text-decoration: none;
     background-color: #F04E26;
 }
